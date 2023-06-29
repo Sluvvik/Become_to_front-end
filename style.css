@@ -1,0 +1,15 @@
+body {
+  background-image: url("3576098.jpg");
+  background-attachment: scroll;
+
+}
+
+p {
+  display: inline-flex;
+  color: black; 
+  background-color: #dcdcdc;
+  border: 3px #dcdcdc solid;
+  border-radius: 10px;
+  margin:7px 7px 7px 7px;
+}
+
