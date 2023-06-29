@@ -1,0 +1,21 @@
+.container{
+	display:flex;
+}
+
+.item {
+	padding: 20px;
+	border: 5px solid black;
+	order:1;
+	flex:1;
+	&:nth-child(odd){
+		width:300px;
+	}
+	&:nth-child(even){
+		width:400px;
+	}
+	&:nth-child(4){
+		background-color: darkseagreen;
+		order:0;
+		flex:4;
+	}
+}

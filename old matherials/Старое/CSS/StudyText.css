@@ -1,0 +1,26 @@
+ul {
+	font-size: 25px;
+}
+
+ul li {
+	color:  #2e00ff ;
+	font-size: 1em;
+	font-weight: 600;
+	font-style: initial;
+}
+
+h1 {
+	font-size: 1em;
+}
+
+div h1 {
+	font-size: 30px;
+}
+
+div ul li {
+	text-decoration: underline;
+	text-transform: ;
+	color:  #42f74d ;
+	letter-spacing: 5px;
+	line-height: 66px;
+}

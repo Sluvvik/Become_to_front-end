@@ -1,0 +1,124 @@
+@import "reset.css"; 
+body{
+	font-family: monospace;
+	color: orange;
+	font-size: 25px;
+}
+* div * {
+	background-color: black;
+	
+}
+
+h1 {
+	color: red;
+}
+
+.hell {
+	color: darkseagreen;
+}
+
+.agneska {
+	color: brown;
+	font-size: 25px;
+}
+
+h3,h2,h4,h5 {
+	color: coral;
+	font-size: 30px;
+}
+
+div em h1 {
+	color: blue;
+}
+
+div > h1 {
+	color: gray;
+	font-size: 30px;
+}
+
+#pisos{
+	color: hotpink;
+	font-weight: 50px;
+}
+
+input[type="mail"] {
+	background-color: burlywood;
+	border: 2px solid black;
+}
+
+input[type="password"] {
+	background-color: lightpink;
+	border: 2px solid red;
+}
+
+#hi1:hover {
+	color: orange;
+}
+
+#knopka:active {
+	color: red;
+}
+
+#knopka2:active {
+	color: red;
+}
+
+#knopka2 {
+	color: blue;
+}
+
+#bif:before {
+	content: "*";
+	display: inline-block;
+	font-weight: 20px;
+	color: green;
+	padding-right: 10px;
+}
+
+#afa:after{
+	content: "*";
+	display: inline-block;
+	font-weight: 20px;
+	color: green;
+	padding-left: 10px;
+}
+
+ul li:nth-child(1){
+	color: red;
+	font-size: 19px;
+}
+
+ul li:nth-child(2){
+	color: blue;
+	font-size: 20px;
+}
+
+ul li:nth-child(3){
+	color: green;
+	font-size: 21px;
+}
+
+ul li:nth-child(4){
+	color: orange;
+	font-size: 22px;
+}
+
+ul li:nth-child(5){
+	color: brown;
+	font-size: 23px;
+}
+
+ul li:nth-child(6){
+	color: rosybrown;
+	font-size: 24px;
+}
+
+div ul li:first-child {
+	background-color: green;
+	color: brown;
+}
+
+div ul li:last-child {
+	background-color: blue;
+	color: red;
+}
