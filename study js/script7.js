@@ -32,7 +32,7 @@ const car = {
 	speed: 100,
 	color: 'green',
 	drive: function() {
-		return console.log('Idrive very fast!') //New method use/call function
+		return console.log('I drive very fast!') //New method use/call function
 	}
 }
 
